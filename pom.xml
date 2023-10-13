@@ -10,7 +10,7 @@
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://57.180.66.10:9000/</sonar.host.url>
+		<sonar.host.url>http://54.168.246.86:9000/</sonar.host.url>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <maven.compiler.source>1.7</maven.compiler.source>
                 <maven.compiler.target>1.7</maven.compiler.target>
@@ -37,7 +37,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://57.180.58.6:8081/repository/sample-releases/</url>
+		    <url>http://52.195.218.176:8081/repository/sample-release/</url>
 		</repository>
   	</distributionManagement>
 	
